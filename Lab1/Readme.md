@@ -13,4 +13,4 @@ Plan laboratorium:
 5. Tuning hiperparametrów, walidacja skrośna.
 6. Problem klasyfikacji, regresja logistyczna, metryki jakości w klasyfikacji.
 
-Zawartość laboratorium dostępna jest w [notebooku](lab_1_introduction.ipynb).
+Zawartość laboratorium dostępna jest w [notebooku](notebook.ipynb).
